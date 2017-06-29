@@ -1,7 +1,4 @@
-package com.example;
-
 /**
- * Created by chengjixuan on 6/29/17.
+ * This is a package name
  */
-public class package_info {
-}
+package com.example;
